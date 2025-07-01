@@ -1,7 +1,7 @@
-needs_setup: true
+needs_setup: false
 
 # this is set to the name of your repo during setup, you can change it later on using the rename tool
-project_name: template
+project_name: constant_current_function_gen 
 
 # this is a list of the production formats that you would like
 # honestly only use gerbers, i doubt i will add anything else
