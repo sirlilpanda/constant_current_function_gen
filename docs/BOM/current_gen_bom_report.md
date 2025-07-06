@@ -1,8 +1,8 @@
 # 📄 BOM for current_gen_bill_of_material 📄
 
-report created at 23:27:12.201412 on 06-07-2025.
+report created at 23:48:34.588774 on 06-07-2025.
 
-current_gen_bill_of_material has a total of 26 parts with a cost of $0.
+current_gen_bill_of_material has a total of 28 parts with a cost of $0.
 
 | Reference | Value | Quantity | part number | cost |
 | --------- | ----- | -------- | ----------- | ---- |
@@ -12,6 +12,7 @@ current_gen_bill_of_material has a total of 26 parts with a cost of $0.
 | J1 | Conn_Coaxial | 1 |  | $0 |
 | J2 | Conn_Coaxial | 1 |  | $0 |
 | J3 | Jack-DC | 1 |  | $0 |
+| J4 | Conn_Coaxial | 1 |  | $0 |
 | JP1 | Jumper_2_Open | 1 |  | $0 |
 | Q1 | NPN | 1 |  | $0 |
 | Q2 | NPN | 1 |  | $0 |
@@ -31,5 +32,6 @@ current_gen_bill_of_material has a total of 26 parts with a cost of $0.
 | R3 | 22R | 1 |  | $0 |
 | R4 | 1k | 1 |  | $0 |
 | R5 | 10k | 1 |  | $0 |
+| R6 | 10m | 1 |  | $0 |
 | U1 | OPA2673 | 1 | Package_DFN_QFN:Texas_RSA_VQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm | $0 |
-|  | total | 26 | total | $0 |
+|  | total | 28 | total | $0 |
