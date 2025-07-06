@@ -4,18 +4,18 @@
 a cool table showing the workflow of all the kicad projects.
 | project_name | DRC | ERC |
 | ------------ | --- | --- |
-| template | [❌](https://github.com/sirlilpanda/constant_current_function_gen/actions/runs/16012748725/attempts/1#summary-45173600476)| [✅](https://github.com/sirlilpanda/constant_current_function_gen/actions/runs/16012748725/attempts/1#summary-45173600475) | 
+| current_gen | [❌](https://github.com/sirlilpanda/constant_current_function_gen/actions/runs/16104261848/attempts/1#summary-45437335313)| [❌](https://github.com/sirlilpanda/constant_current_function_gen/actions/runs/16104261848/attempts/1#summary-45437335315) | 
 
 for a quick guide check [project setup](#project-setup)
 
 This is a simple project template for new kicad projects. This template has some basic setup already completed such as workflows for auto creating all the things you forget when creating a kicad project such as:
 
-- [gerbers](https://github.com/sirlilpanda/constant_current_function_gen/tree/main/template_gerber.zip)
-- [bom](https://github.com/sirlilpanda/constant_current_function_gen/tree/main/template_bom_report.md)
-- [schematic pdf](https://github.com/sirlilpanda/constant_current_function_gen/tree/main/template_schematic.pdf)
+- [gerbers](https://github.com/sirlilpanda/constant_current_function_gen/tree/main/current_gen_gerber.zip)
+- [bom](https://github.com/sirlilpanda/constant_current_function_gen/tree/main/current_gen_bom_report.md)
+- [schematic pdf](https://github.com/sirlilpanda/constant_current_function_gen/tree/main/current_gen_schematic.pdf)
 
 
-This workflow will also run the design rules check on the PCB and schematic to ensure that you upload a working PCB. These reports are uploaded as summaries within the github [actions tab](https://github.com/sirlilpanda/constant_current_function_gen/actions/runs/16012748725). This template has a simple schematic PCB in it (because DRC fails on an empty PCB). Shown below is the example PCB.
+This workflow will also run the design rules check on the PCB and schematic to ensure that you upload a working PCB. These reports are uploaded as summaries within the github [actions tab](https://github.com/sirlilpanda/constant_current_function_gen/actions/runs/16104261848). This template has a simple schematic PCB in it (because DRC fails on an empty PCB). Shown below is the example PCB.
 
 ![example pcb with battery diode and resistor](res/image.png)
 
