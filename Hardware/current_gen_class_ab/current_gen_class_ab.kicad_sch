@@ -2204,7 +2204,7 @@
 		(uuid 62d7defc-0aba-4946-9ed0-1218bf005076)
 	)
 	(rectangle
-		(start 54.61 35.56)
+		(start 52.07 35.56)
 		(end 95.25 54.61)
 		(stroke
 			(width 0)
@@ -3775,7 +3775,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0a37933b-a7e2-4474-958c-bb048bf83d7d")
 		(property "Reference" "Q1"
 			(at 195.58 74.9299 0)
@@ -3804,7 +3803,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_MOSFETs"
+		(property "Datasheet" "https://www.vishay.com/docs/91076/91076.pdf"
 			(at 189.23 88.9 0)
 			(effects
 				(font
@@ -3842,6 +3841,32 @@
 		)
 		(property "Sim.Pins" "1=D 2=G 3=S"
 			(at 189.23 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactor Number" "IRF9530PBF"
+			(at 200.406 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 189.23 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Link" "https://www.digikey.co.nz/en/products/detail/vishay-siliconix/IRF9530PBF/811815"
+			(at 189.23 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4692,7 +4717,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/lm7372.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1753149553067&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm7372"
 			(at 269.24 39.37 0)
 			(effects
 				(font
@@ -4739,6 +4764,24 @@
 		)
 		(property "Sim.Pins" "1=out1 2=in1- 3=in1+ 4=vee 5=in2+ 6=in2- 7=out2 8=vcc"
 			(at 269.24 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactor Number" "LM7372MRX"
+			(at 269.24 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Link" "https://www.digikey.co.nz/en/products/detail/texas-instruments/LM7372MRX-NOPB/1284484"
+			(at 269.24 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4880,7 +4923,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/lm7372.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1753149553067&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm7372"
 			(at 137.16 111.76 0)
 			(effects
 				(font
@@ -4926,6 +4969,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=out1 2=in1- 3=in1+ 4=vee 5=in2+ 6=in2- 7=out2 8=vcc"
+			(at 137.16 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactor Number" "LM7372MRX"
+			(at 137.16 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Link" "https://www.digikey.co.nz/en/products/detail/texas-instruments/LM7372MRX-NOPB/1284484"
 			(at 137.16 111.76 0)
 			(effects
 				(font
@@ -5294,7 +5355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/lm7372.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1753149553067&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm7372"
 			(at 162.56 76.2 0)
 			(effects
 				(font
@@ -5340,6 +5401,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=out1 2=in1- 3=in1+ 4=vee 5=in2+ 6=in2- 7=out2 8=vcc"
+			(at 162.56 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactor Number" "LM7372MRX"
+			(at 162.56 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Link" "https://www.digikey.co.nz/en/products/detail/texas-instruments/LM7372MRX-NOPB/1284484"
 			(at 162.56 76.2 0)
 			(effects
 				(font
@@ -5417,7 +5496,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/lm7372.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1753149553067&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm7372"
 			(at 242.57 39.37 0)
 			(effects
 				(font
@@ -5464,6 +5543,24 @@
 		)
 		(property "Sim.Pins" "1=out1 2=in1- 3=in1+ 4=vee 5=in2+ 6=in2- 7=out2 8=vcc"
 			(at 242.57 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactor Number" "LM7372MRX"
+			(at 242.57 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Link" "https://www.digikey.co.nz/en/products/detail/texas-instruments/LM7372MRX-NOPB/1284484"
+			(at 242.57 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6235,6 +6332,99 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 191.77 52.07 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7ef3b6f2-5a36-4a1a-b196-ee1cbd8ec90d")
+		(property "Reference" "R16"
+			(at 187.706 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5R"
+			(at 187.706 53.086 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 193.548 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/PWR220T-35.pdf"
+			(at 191.77 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 191.77 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactor Number" "PWR220T-35-5R00F"
+			(at 191.77 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "20W"
+			(at 187.706 55.118 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Supplier Link" "https://www.digikey.co.nz/en/products/detail/bourns-inc/PWR220T-35-5R00F/4699653"
+			(at 191.77 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e89f83fd-0517-4f62-a3fc-0abd0aa46b86")
+		)
+		(pin "1"
+			(uuid "8e185d34-a09e-46b3-9c76-aca718ef6ff4")
+		)
+		(instances
+			(project "current_gen_class_ab"
+				(path "/78df9831-7ddb-4ab5-87b3-34d93b605b90"
+					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Potentiometer_US")
 		(at 129.54 82.55 0)
 		(unit 1)
@@ -6421,99 +6611,6 @@
 			(project "current_gen_class_ab"
 				(path "/78df9831-7ddb-4ab5-87b3-34d93b605b90"
 					(reference "TP6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 191.77 52.07 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "90c08828-dafa-4935-9c87-02f0cec63b06")
-		(property "Reference" "R16"
-			(at 194.818 50.038 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "5R"
-			(at 194.818 51.816 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 189.992 52.07 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 191.77 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 191.77 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufactor Number" ""
-			(at 191.77 52.07 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" "20W"
-			(at 195.58 53.594 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Supplier Link" ""
-			(at 191.77 52.07 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "452b21ba-21b4-4e6b-987f-06e355a41987")
-		)
-		(pin "1"
-			(uuid "47666d76-886a-4d64-9f66-646d3bb29398")
-		)
-		(instances
-			(project "current_gen_class_ab"
-				(path "/78df9831-7ddb-4ab5-87b3-34d93b605b90"
-					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -6780,7 +6877,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/lm7372.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1753149553067&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm7372"
 			(at 137.16 73.66 0)
 			(effects
 				(font
@@ -6826,6 +6923,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=out1 2=in1- 3=in1+ 4=vee 5=in2+ 6=in2- 7=out2 8=vcc"
+			(at 137.16 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactor Number" "LM7372MRX"
+			(at 137.16 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Link" "https://www.digikey.co.nz/en/products/detail/texas-instruments/LM7372MRX-NOPB/1284484"
 			(at 137.16 73.66 0)
 			(effects
 				(font
@@ -6901,7 +7016,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/lm7372.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1753149553067&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm7372"
 			(at 162.56 109.22 0)
 			(effects
 				(font
@@ -6947,6 +7062,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=out1 2=in1- 3=in1+ 4=vee 5=in2+ 6=in2- 7=out2 8=vcc"
+			(at 162.56 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactor Number" "LM7372MRX"
+			(at 162.56 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Link" "https://www.digikey.co.nz/en/products/detail/texas-instruments/LM7372MRX-NOPB/1284484"
 			(at 162.56 109.22 0)
 			(effects
 				(font
@@ -7122,7 +7255,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/PWR220T-35.pdf"
 			(at 191.77 127 0)
 			(effects
 				(font
@@ -7140,7 +7273,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactor Number" ""
+		(property "Manufactor Number" "PWR220T-35-5R00F"
 			(at 191.77 127 90)
 			(effects
 				(font
@@ -7157,7 +7290,7 @@
 				)
 			)
 		)
-		(property "Supplier Link" ""
+		(property "Supplier Link" "https://www.digikey.co.nz/en/products/detail/bourns-inc/PWR220T-35-5R00F/4699653"
 			(at 191.77 127 90)
 			(effects
 				(font
@@ -8500,7 +8633,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_MOSFETs"
+		(property "Datasheet" "https://www.vishay.com/docs/91015/irf510.pdf"
 			(at 189.23 121.92 0)
 			(effects
 				(font
@@ -8545,7 +8678,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactor Number" "R6004JNXC7G"
+		(property "Manufactor Number" "IRF510PBF"
 			(at 199.898 112.776 0)
 			(effects
 				(font
@@ -8562,7 +8695,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier Link" "https://www.digikey.co.nz/en/products/detail/rohm-semiconductor/R6004JNXC7G/9998438"
+		(property "Supplier Link" "https://www.digikey.co.nz/en/products/detail/vishay-siliconix/IRF510PBF/811710"
 			(at 189.23 109.22 0)
 			(effects
 				(font
