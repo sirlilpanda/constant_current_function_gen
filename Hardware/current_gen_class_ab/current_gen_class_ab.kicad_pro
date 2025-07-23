@@ -528,7 +528,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": false
+          "show": true
         },
         {
           "group_by": true,
@@ -606,19 +606,19 @@
           "group_by": false,
           "label": "Supplier Link",
           "name": "Supplier Link",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Notes",
           "name": "Notes",
-          "show": false
+          "show": true
         },
         {
-          "group_by": false,
+          "group_by": true,
           "label": "Manufactor Number",
           "name": "Manufactor Number",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
