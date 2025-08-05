@@ -1,8 +1,8 @@
 # 📄 BOM for current_gen_class_ab_bill_of_material 📄
 
-report created at 23:23:52.687580 on 03-08-2025.
+report created at 23:03:32.722458 on 05-08-2025.
 
-current_gen_class_ab_bill_of_material has a total of 68 parts with a cost of $0.
+current_gen_class_ab_bill_of_material has a total of 67 parts with a cost of $0.
 
 | Reference | Value | Quantity | part number | cost |
 | --------- | ----- | -------- | ----------- | ---- |
@@ -20,7 +20,6 @@ current_gen_class_ab_bill_of_material has a total of 68 parts with a cost of $0.
 | D7 | LED | 1 | Diode_SMD:D_0603_1608Metric | $0 |
 | F1 | Fuse | 1 | Fuse:Fuseholder_Clip-5x20mm_Bel_FC-203-22_Lateral_P17.80x5.00mm_D1.17mm_Horizontal | $0 |
 | F2 | Fuse | 1 | Fuse:Fuseholder_Clip-5x20mm_Bel_FC-203-22_Lateral_P17.80x5.00mm_D1.17mm_Horizontal | $0 |
-| F3 | Fuse | 1 | Fuse:Fuseholder_Clip-5x20mm_Bel_FC-203-22_Lateral_P17.80x5.00mm_D1.17mm_Horizontal | $0 |
 | F4 | Fuse | 1 | Fuse:Fuseholder_Clip-5x20mm_Bel_FC-203-22_Lateral_P17.80x5.00mm_D1.17mm_Horizontal | $0 |
 | F5 | Fuse | 1 | Fuse:Fuseholder_Clip-5x20mm_Bel_FC-203-22_Lateral_P17.80x5.00mm_D1.17mm_Horizontal | $0 |
 | J1 | Conn_Coaxial | 1 | Connector_Coaxial:BNC_TEConnectivity_1478035_Horizontal | $0 |
@@ -74,4 +73,4 @@ current_gen_class_ab_bill_of_material has a total of 68 parts with a cost of $0.
 | RV4 | 10k | 1 | Potentiometer_THT:Potentiometer_Bourns_PTV09A-1_Single_Vertical | $0 |
 | U1 | Opamp_Dual | 1 | Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm_ThermalVias | $0 |
 | U2 | Opamp_Dual | 1 | Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm_ThermalVias | $0 |
-|  | total | 68 | total | $0 |
+|  | total | 67 | total | $0 |
