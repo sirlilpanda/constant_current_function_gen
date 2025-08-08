@@ -4,8 +4,8 @@
 a cool table showing the workflow of all the kicad projects.
 | project_name | DRC | ERC |
 | ------------ | --- | --- |
-| current_gen_class_ab | [❌](https://github.com/sirlilpanda/constant_current_function_gen/actions/runs/16764267235/attempts/1#summary-47466209067)| [❌](https://github.com/sirlilpanda/constant_current_function_gen/actions/runs/16764267235/attempts/1#summary-47466209085) | 
-| current_gen | [✅](https://github.com/sirlilpanda/constant_current_function_gen/actions/runs/16764267235/attempts/1#summary-47466209080)| [❌](https://github.com/sirlilpanda/constant_current_function_gen/actions/runs/16764267235/attempts/1#summary-47466209076) | 
+| current_gen_class_ab | [❌](https://github.com/sirlilpanda/constant_current_function_gen/actions/runs/16821990167/attempts/1#summary-47650711295)| [❌](https://github.com/sirlilpanda/constant_current_function_gen/actions/runs/16821990167/attempts/1#summary-47650711311) | 
+| current_gen | [✅](https://github.com/sirlilpanda/constant_current_function_gen/actions/runs/16821990167/attempts/1#summary-47650711297)| [✅](https://github.com/sirlilpanda/constant_current_function_gen/actions/runs/16821990167/attempts/1#summary-47650711362) | 
 
 for a quick guide check [project setup](#project-setup)
 
@@ -17,7 +17,7 @@ This is a simple project template for new kicad projects. This template has some
 | [current_gen_class_ab](https://github.com/sirlilpanda/constant_current_function_gen/tree/main/./Hardware/current_gen_class_ab) | [current_gen_class_ab_schematic.pdf](https://github.com/sirlilpanda/constant_current_function_gen/tree/main/current_gen_class_ab_schematic.pdf) | [current_gen_class_ab_bill_of_materials.csv](https://github.com/sirlilpanda/constant_current_function_gen/tree/main/current_gen_class_ab_bill_of_materials.csv) | [current_gen_class_ab_bom_report.md](https://github.com/sirlilpanda/constant_current_function_gen/tree/main/current_gen_class_ab_bom_report.md) | [current_gen_class_ab_grbr.zip](https://github.com/sirlilpanda/constant_current_function_gen/tree/main/current_gen_class_ab_gerber.zip) |
 | [current_gen](https://github.com/sirlilpanda/constant_current_function_gen/tree/main/./Hardware/current_gen) | [current_gen_schematic.pdf](https://github.com/sirlilpanda/constant_current_function_gen/tree/main/current_gen_schematic.pdf) | [current_gen_bill_of_materials.csv](https://github.com/sirlilpanda/constant_current_function_gen/tree/main/current_gen_bill_of_materials.csv) | [current_gen_bom_report.md](https://github.com/sirlilpanda/constant_current_function_gen/tree/main/current_gen_bom_report.md) | [current_gen_grbr.zip](https://github.com/sirlilpanda/constant_current_function_gen/tree/main/current_gen_gerber.zip) |
 
-This workflow will also run the design rules check on the PCB and schematic to ensure that you upload a working PCB. These reports are uploaded as summaries within the github [actions tab](https://github.com/sirlilpanda/constant_current_function_gen/actions/runs/16764267235). This template has a simple schematic PCB in it (because DRC fails on an empty PCB). Shown below is the example PCB.
+This workflow will also run the design rules check on the PCB and schematic to ensure that you upload a working PCB. These reports are uploaded as summaries within the github [actions tab](https://github.com/sirlilpanda/constant_current_function_gen/actions/runs/16821990167). This template has a simple schematic PCB in it (because DRC fails on an empty PCB). Shown below is the example PCB.
 
 ![example pcb with battery diode and resistor](res/image.png)
 
