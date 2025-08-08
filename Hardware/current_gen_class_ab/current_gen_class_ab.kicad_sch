@@ -8963,6 +8963,33 @@
 				(hide yes)
 			)
 		)
+		(property "Supplier Part Number" ""
+			(at 273.05 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier link" "https://www.digikey.co.nz/en/products/detail/kemet/C0805C105K6RACTU/7382122"
+			(at 273.05 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactor Part Number" ""
+			(at 273.05 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "edb4e60d-8ac5-4758-a77b-d81cf02ebfd2")
 		)
@@ -11015,7 +11042,7 @@
 		(dnp no)
 		(uuid "6f1720be-6192-4fad-ac87-ec09a9d16673")
 		(property "Reference" "JP4"
-			(at 168.402 48.006 0)
+			(at 170.434 64.008 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11023,7 +11050,7 @@
 			)
 		)
 		(property "Value" "Jumper_2_Open"
-			(at 170.942 48.006 0)
+			(at 172.974 64.008 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15992,6 +16019,42 @@
 			)
 		)
 		(property "Description" "BAV99 High-speed switching diodes, SOT-23"
+			(at 102.87 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part Number" "BAV99"
+			(at 102.87 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier link" "https://www.digikey.co.nz/en/products/detail/smc-diode-solutions/BAV99/6022507"
+			(at 102.87 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" ""
+			(at 102.87 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufactor Part Number" "BAV99"
 			(at 102.87 92.71 0)
 			(effects
 				(font
